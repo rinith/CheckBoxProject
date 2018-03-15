@@ -14,7 +14,8 @@
         android:layout_height="wrap_content"
         android:text="B.Tech"
         android:checked="true"
-        android:onClick="clicked"/>
+        android:onClick="clicked"
+        android:textColor="@color/colorPrimaryDark"/>
 
     <CheckBox
         android:id="@+id/checkBox2"
